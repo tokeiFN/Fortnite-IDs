@@ -1,0 +1,17 @@
+v29.00:
+
+-Disco Tek Manic: Character_TacticalRed_Disco
+-Anwar: Character_PaperBlaze
+-Noorah: Character_PaperGlow
+-Cerberus: Character_GateHound_Spectral
+-Aphrodite: Character_LiftingAura_Wave
+-Korra: Character_PlantStand
+-Medusa: Character_ReptilianOcean_Sleek
+-Artemis: Character_SeleneCobra_Stride
+-Poseidon: Character_TideKing_Regal
+-TBD: Character_GoldAccomplishment
+-TBD: Character_PiteousKicks
+-Hades: Character_DarkStance_Inferno
+-Zeus: Character_StunningMountain_Armor
+-Rufus: Character_FeralTrash
+-Odyssey: Character_RankedOlympus
