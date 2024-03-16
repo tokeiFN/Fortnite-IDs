@@ -1,4 +1,4 @@
 v29.00:
 
--playlist_melt_solos
+-playlist_melt
 -playlist_melt_squads
