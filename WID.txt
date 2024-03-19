@@ -14,3 +14,5 @@ v29.00:
 -Zeus Lighting: WID_Athena_SunRose_Zeus_Lightning
 -Midas drum gun: WID_SunRose_DrumGun_Athena_UR
 -Shield Bubble Jr.: Athena_SilverBlazer_Mini_UC
+
+v29.01:
