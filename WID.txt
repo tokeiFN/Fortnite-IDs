@@ -11,3 +11,6 @@ v29.00:
 -Cerberus Shotgun: WID_SunRose_ModularDMR_Athena_UR
 -Zeus DMR: WID_Assault_SunRose_Athena_UR
 -Ares Rifle: WID_Athena_SunRose_Zeus_Lightning
+-Zeus Lighting: WID_Athena_SunRose_Zeus_Lightning
+-Midas drum gun: WID_SunRose_DrumGun_Athena_UR
+-Shield Bubble Jr.: Athena_SilverBlazer_Mini_UC
