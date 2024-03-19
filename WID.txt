@@ -7,7 +7,7 @@ v29.00:
 -Sprint Medaillon: WID_SMG_SunRose_DPS_Athena_UR_Boss
 -Hades SMG: WID_ChainWhip
 -Hades Whip: WID_Athena_SunRose_Wings
--Wings WID_Shotgun_Break_Cerberus_Athena_UR
+-Wings: WID_Shotgun_Break_Cerberus_Athena_UR
 -Cerberus Shotgun: WID_SunRose_ModularDMR_Athena_UR
 -Zeus DMR: WID_Assault_SunRose_Athena_UR
 -Ares Rifle: WID_Athena_SunRose_Zeus_Lightning
